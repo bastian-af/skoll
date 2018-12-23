@@ -1,0 +1,1 @@
+Click aca <a href="{{route('envioHecho',["email" => $user->email, "verifyToken"=>$user->verifyToken])}}"> HEHE </a>
